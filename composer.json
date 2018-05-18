@@ -1,0 +1,12 @@
+{
+    "name": "ubuntu/lesson_5.1",
+    "require": {
+        "yandex/geo": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Maximov30031989",
+            "email": "Maximov30031989@yandex.ru"
+        }
+    ]
+}
